@@ -18,7 +18,7 @@ app.use(cors())
 initializeDbConnection()
 // sendDataToDataBase() save videos to db only once
 app.get('/', (req, res) => {
-  res.json('Hello World!')
+  res.json('Welcome to DevTube server!!')
 });
 
 app.use("/user",userRouter)
