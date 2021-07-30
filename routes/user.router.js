@@ -5,7 +5,7 @@ const HistoryVideosController = require("../controllers/history.videos.controlle
 const LikedVideosController = require("../controllers/liked.videos.controller");
 const PlaylistController = require("../controllers/playlist.controller");
 const PlaylistVideoController = require("../controllers/playlist.video.controller");
-
+const {userLogger} = require("../middlewares/authHandler")
 
 router.route("/")
 .get(UserController.get_all_users)
@@ -13,6 +13,8 @@ router.route("/")
 
 router.route("/login")
 .post(UserController.user_login)
+
+router.use(userLogger)
 
 router.route("/:userId/history/video")
 .get(HistoryVideosController.get_user_history_videos)
