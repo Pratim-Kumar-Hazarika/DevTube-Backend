@@ -2,9 +2,8 @@ const {HistoryVideo} = require("../models/history.model");
 
 exports.get_user_history_videos = async(req,res)=>{
     try {
-      const {userId} = req.params;
-      // .populate("historyVideos _id")
-        const getUserVideos = await HistoryVideo.findById(userId)  
+       const {userId} = req.params;
+        const getUserVideos = await HistoryVideo.findById(userId).populate("historyVideos") 
         res.json({message:"user videos are",getUserVideos})
     } catch (error) {
         res.status(500).json({errorMessage:"error while getting user videos"})
