@@ -5,7 +5,6 @@ const bodyParser = require('body-parser');
 const cors = require("cors")
 const port = 3000
 
-
 const {initializeDbConnection} = require("./dbConnection/db.connection")
 const {errorHandler} = require("./middlewares/errorHandler")
 const {routeHandler} = require("./middlewares/routeHandler")
