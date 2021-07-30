@@ -3,8 +3,7 @@ const {LikedVideos} = require("../models/likedVideo.model");
 exports.get_user_liked_videos = async(req,res)=>{
     try {
       const {userId} = req.params;
-      // .populate("historyVideos _id")
-        const getUserVideos = await LikedVideos.findById(userId)  
+        const getUserVideos = await LikedVideos.findById(userId).populate("likedVideos")
         res.json({message:"user videos are",getUserVideos})
     } catch (error) {
         res.status(500).json({errorMessage:"error while getting user videos"})
