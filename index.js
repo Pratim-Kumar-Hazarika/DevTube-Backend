@@ -3,7 +3,8 @@ const express = require('express')
 const app = express();
 const bodyParser = require('body-parser');
 const cors = require("cors")
-const port = process.env.PORT
+const port = 3000
+
 
 const {initializeDbConnection} = require("./dbConnection/db.connection")
 const {errorHandler} = require("./middlewares/errorHandler")
@@ -25,6 +26,6 @@ app.use("/user",userRouter)
 app.use(errorHandler)
 app.use(routeHandler)
 
-app.listen(port, () => {
+app.listen(process.env.PORT || port, () => {
   console.log(`Server started at port ${port}!`)
 });
