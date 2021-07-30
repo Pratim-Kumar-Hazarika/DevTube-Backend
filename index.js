@@ -10,6 +10,7 @@ const {initializeDbConnection} = require("./dbConnection/db.connection")
 const {errorHandler} = require("./middlewares/errorHandler")
 const {routeHandler} = require("./middlewares/routeHandler")
 const userRouter = require("./routes/user.router");
+const videoRouter = require("./routes/video.router");
 const {sendDataToDataBase} = require("./dbConnection/sendData")
 
 app.use(bodyParser.json()); 
@@ -23,6 +24,7 @@ app.get('/', (req, res) => {
 });
 
 app.use("/user",userRouter)
+ app.use("/video",videoRouter)
 app.use(errorHandler)
 app.use(routeHandler)
 
