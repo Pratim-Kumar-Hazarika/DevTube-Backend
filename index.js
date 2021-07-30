@@ -1,11 +1,30 @@
+require('dotenv').config()
 const express = require('express')
 const app = express();
-const port = 8000;
+const bodyParser = require('body-parser');
+const cors = require("cors")
+const port = process.env.PORT
 
+const {initializeDbConnection} = require("./dbConnection/db.connection")
+const {errorHandler} = require("./middlewares/errorHandler")
+const {routeHandler} = require("./middlewares/routeHandler")
+const userRouter = require("./routes/user.router");
+const {sendDataToDataBase} = require("./dbConnection/sendData")
+
+app.use(bodyParser.json()); 
+app.use(bodyParser.urlencoded({extended: true}));
+
+app.use(cors())
+initializeDbConnection()
+// sendDataToDataBase() save videos to db only once
 app.get('/', (req, res) => {
   res.json('Hello World!')
 });
 
+app.use("/user",userRouter)
+app.use(errorHandler)
+app.use(routeHandler)
+
 app.listen(port, () => {
-  console.log(`Example app listening on port ${port}!`)
+  console.log(`Server started at port ${port}!`)
 });
