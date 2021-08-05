@@ -3,241 +3,241 @@ const videodata = [
       url: "https://www.youtube.com/embed/E8cl_8ktp9M",
       name: "Learn HTML/CSS by creating your portfolio [ Course I ]",
       artist: "Tanay Pratap",
-      genre: "blues",
-      views: "105M views • 11 years ago",
+      genre: "course1",
+      views: "26,998 views • Feb 3, 2019",
       image:
-        "https://yt3.ggpht.com/ytc/AAUvwnimiCFlnOZFxRz0Y6fgAnypnG5J3mhtAVUpCv0A5g=s176-c-k-c0x00ffffff-no-rj",
-      thumbnail: "https://img.youtube.com/vi/h5r9WLvgcb0/maxresdefault.jpg"
+        "https://yt3.ggpht.com/ytc/AKedOLQnvobEXpzHCxB1g-q2aXbRDzSaznFVHo5OdFML=s176-c-k-c0x00ffffff-no-rj-mo",
+      thumbnail: "https://img.youtube.com/vi/E8cl_8ktp9M/maxresdefault.jpg"
     },
     {
-      url: "https://www.youtube.com/embed/20Ov0cDPZy8",
-      name: "Tanay Pratap - Free Fallin (Official Lyric Video)",
+      url: "https://www.youtube.com/embed/3n1VkrzhxUE",
+      name: "CSS - Learn HTML/CSS by creating your portfolio II",
       artist: "Tanay Pratap",
-      genre: "blues",
-      views: "10M views • 6 years ago",
+      genre: "course1",
+      views: "8,937 views • Feb 4, 2019",
       image:
-        "https://yt3.ggpht.com/ytc/AAUvwnimiCFlnOZFxRz0Y6fgAnypnG5J3mhtAVUpCv0A5g=s176-c-k-c0x00ffffff-no-rj",
-      thumbnail: "https://img.youtube.com/vi/20Ov0cDPZy8/maxresdefault.jpg"
+        "https://yt3.ggpht.com/ytc/AKedOLQnvobEXpzHCxB1g-q2aXbRDzSaznFVHo5OdFML=s176-c-k-c0x00ffffff-no-rj-mo",
+      thumbnail: "https://img.youtube.com/vi/3n1VkrzhxUE/maxresdefault.jpg"
     },
     {
-      url: "https://www.youtube.com/embed/N5EnGwXV_Pg",
-      name: "Tanay Pratap - Your Body Is A Wonderland",
+      url: "https://www.youtube.com/embed/UpEupeE7vUE",
+      name: "Hosting - Learn HTML/CSS by creating your portfolio III",
       artist: "Tanay Pratap",
-      genre: "blues",
-      views: "199M views •  8 years ago",
+      genre: "course1",
+      views: "8,774 views • Feb 4, 2019",
       image:
-        "https://yt3.ggpht.com/ytc/AAUvwnimiCFlnOZFxRz0Y6fgAnypnG5J3mhtAVUpCv0A5g=s176-c-k-c0x00ffffff-no-rj",
-      thumbnail: "https://img.youtube.com/vi/N5EnGwXV_Pg/maxresdefault.jpg"
+        "https://yt3.ggpht.com/ytc/AKedOLQnvobEXpzHCxB1g-q2aXbRDzSaznFVHo5OdFML=s176-c-k-c0x00ffffff-no-rj-mo",
+      thumbnail: "https://img.youtube.com/vi/UpEupeE7vUE/maxresdefault.jpg"
     },
     {
-      url: "https://www.youtube.com/embed/6YDwBktDthA",
-      name: "Tanay Pratap - Carry Me Away (Official Lyric Video)",
+      url: "https://www.youtube.com/embed/Nyj1nzXLFjM",
+      name: "Git n GitHub - Learn HTML/CSS by creating your portfolio IV",
       artist: "Tanay Pratap",
-      genre: "blues",
-      views: "66M views • 4 years ago",
+      genre: "course1",
+      views: "9,400 views • Feb 11, 2019",
       image:
-        "https://yt3.ggpht.com/ytc/AAUvwnimiCFlnOZFxRz0Y6fgAnypnG5J3mhtAVUpCv0A5g=s176-c-k-c0x00ffffff-no-rj",
-      thumbnail: "https://img.youtube.com/vi/6YDwBktDthA/maxresdefault.jpg"
+        "https://yt3.ggpht.com/ytc/AKedOLQnvobEXpzHCxB1g-q2aXbRDzSaznFVHo5OdFML=s176-c-k-c0x00ffffff-no-rj-mo",
+      thumbnail: "https://img.youtube.com/vi/Nyj1nzXLFjM/maxresdefault.jpg"
     },
     {
-      url: "https://www.youtube.com/embed/G9kz-tag04U",
-      name: "Metallica: Master of Puppets (Manchester, England - June 18, 2019)",
-      artist: "Metallica",
-      genre: "metal",
-      views: "199M views • 13 years ago",
+      url: "https://www.youtube.com/embed/oUO3-XQAEsY",
+      name: "Continuous Delivery - Learn HTML/CSS by creating your portfolio V",
+      artist: "Tanay Pratap",
+      genre: "course1",
+      views: "6,592 views • Feb 12, 2019",
       image:
-        "https://yt3.ggpht.com/ytc/AAUvwnipqfY2qnY44ZuZWGZGpqxCaaolR5nb_shioUcngw=s176-c-k-c0x00ffffff-no-rj",
-      thumbnail: "https://img.youtube.com/vi/G9kz-tag04U/maxresdefault.jpg"
+        "https://yt3.ggpht.com/ytc/AKedOLQnvobEXpzHCxB1g-q2aXbRDzSaznFVHo5OdFML=s176-c-k-c0x00ffffff-no-rj-mo",
+      thumbnail: "https://img.youtube.com/vi/oUO3-XQAEsY/maxresdefault.jpg"
     },
     {
-      url: "https://www.youtube.com/embed/pZTJBViOoik",
-      name: "Metallica: Enter Sandman (Trondheim, Norway - July 13, 2019) ",
-      artist: "Metallica",
-      genre: "metal",
-      views: "15M views • 8 years ago",
+      url: "https://www.youtube.com/embed/8aGhZQkoFbQ",
+      name: "What the heck is the event loop anyway?",
+      artist: "JSConf",
+      genre: "js-talks",
+      views: "1,972,359 views • Oct 9, 2014",
       image:
-        "https://yt3.ggpht.com/ytc/AAUvwnipqfY2qnY44ZuZWGZGpqxCaaolR5nb_shioUcngw=s176-c-k-c0x00ffffff-no-rj",
-      thumbnail: "https://img.youtube.com/vi/pZTJBViOoik/maxresdefault.jpg"
+        "https://yt3.ggpht.com/ytc/AKedOLSUOEQunmzvzQOeAWEorFZiXGHQ6LEMMR02wzNQ9w=s88-c-k-c0x00ffffff-no-rj",
+      thumbnail: "https://img.youtube.com/vi/8aGhZQkoFbQ/maxresdefault.jpg"
     },
     {
-      url: "https://www.youtube.com/embed/OMguFafuqrg",
-      name: "Metallica: Nothing Else Matters (Official Music Video)",
-      artist: "Metallica",
-      genre: "metal",
-      views: "205M views • 8 years ago",
+      url: "https://www.youtube.com/embed/Wo0qiGPSV-s",
+      name: "Immutable data structures for functional JS ",
+      artist: "JSConf",
+      genre: "js-talks",
+      views: "259,360 views • May 14, 2017",
       image:
-        "https://yt3.ggpht.com/ytc/AAUvwnipqfY2qnY44ZuZWGZGpqxCaaolR5nb_shioUcngw=s176-c-k-c0x00ffffff-no-rj",
-      thumbnail: "https://img.youtube.com/vi/OMguFafuqrg/maxresdefault.jpg"
+        "https://yt3.ggpht.com/ytc/AKedOLSUOEQunmzvzQOeAWEorFZiXGHQ6LEMMR02wzNQ9w=s88-c-k-c0x00ffffff-no-rj",
+      thumbnail: "https://img.youtube.com/vi/Wo0qiGPSV-s/maxresdefault.jpg"
     },
     {
-      url: "https://www.youtube.com/embed/xROxlIu__Fs",
-      name: "Metallica: Sad But True (Moscow, Russia - July 21, 2019)",
-      artist: "Metallica",
-      genre: "metal",
-      views: "188M views • 6 years ago",
+      url: "https://www.youtube.com/embed/e-5obm1G_FY",
+      name: "Learning Functional Programming with JavaScript",
+      artist: "JSConf",
+      genre: "js-talks",
+      views: "2,329,416 views • Jun 14, 2016",
       image:
-        "https://yt3.ggpht.com/ytc/AAUvwnipqfY2qnY44ZuZWGZGpqxCaaolR5nb_shioUcngw=s176-c-k-c0x00ffffff-no-rj",
-      thumbnail: "https://img.youtube.com/vi/xROxlIu__Fs/maxresdefault.jpg"
+        "https://yt3.ggpht.com/ytc/AKedOLSUOEQunmzvzQOeAWEorFZiXGHQ6LEMMR02wzNQ9w=s88-c-k-c0x00ffffff-no-rj",
+      thumbnail: "https://img.youtube.com/vi/e-5obm1G_FY/maxresdefault.jpg"
     },
     {
-      url: "https://www.youtube.com/embed/0P3Gt-60yLc",
-      name: "Anuv Jain - MISHRI (Studio)",
-      artist: "Anuv Jain",
-      genre: "sobs",
-      views: "15M views • 2 years ago",
+      url: "https://www.youtube.com/embed/fE-yQeVRrzw",
+      name: "Scaling Myntra API Gateway to 30kqps built on Go lang with GraphQL",
+      artist: "GraphQL Asia",
+      genre: "graphQl-talks",
+      views: "495 views • May 14, 2019",
       image:
-        "https://yt3.ggpht.com/ytc/AAUvwngRqqSlTmp4mkOAQtVVgadziefg5D1El2RGbQKecA=s176-c-k-c0x00ffffff-no-rj-mo",
-      thumbnail: "https://img.youtube.com/vi/0P3Gt-60yLc/maxresdefault.jpg"
+        "https://yt3.ggpht.com/ytc/AKedOLSFIcHwo5qli_rSH6R_mq5qEyK08JPLMsMisxHx=s176-c-k-c0x00ffffff-no-rj",
+      thumbnail: "https://img.youtube.com/vi/fE-yQeVRrzw/maxresdefault.jpg"
     },
     {
-      url: "https://www.youtube.com/embed/9et5qzuzbQM",
-      name: "RIHA by Anuv Jain (Studio)",
-      artist: "Anuv Jain",
-      genre: "sobs",
-      views: "900k views • 3 years ago",
+      url: "https://www.youtube.com/embed/XUgGl8mGu1M",
+      name: "Rewriting Wiki in Teams with Apollo + GraphQL at Microsoft's scale",
+      artist: "GraphQL Asia",
+      genre: "graphQl-talks",
+      views: "4,232 views • May 14, 2019",
       image:
-        "https://yt3.ggpht.com/ytc/AAUvwngRqqSlTmp4mkOAQtVVgadziefg5D1El2RGbQKecA=s176-c-k-c0x00ffffff-no-rj-mo",
-      thumbnail: "https://img.youtube.com/vi/9et5qzuzbQM/maxresdefault.jpg"
+        "https://yt3.ggpht.com/ytc/AKedOLSFIcHwo5qli_rSH6R_mq5qEyK08JPLMsMisxHx=s176-c-k-c0x00ffffff-no-rj",
+      thumbnail: "https://img.youtube.com/vi/XUgGl8mGu1M/maxresdefault.jpg"
     },
     {
-      url: "https://www.youtube.com/embed/PJWemSzExXs",
-      name: "BAARISHEIN (Studio) Anuv Jain",
-      artist: "Anuv Jain",
-      genre: "sobs",
-      views: "15M  • 1 years ago",
+      url: "https://www.youtube.com/embed/f7s0XpKb0VM",
+      name: "Live Queries implementation with Apollo & GraphQL - Kiran Kumar Abburi",
+      artist: "GraphQL Asia",
+      genre: "graphQl-talks",
+      views: "813 views  • May 14, 2019",
       image:
-        "https://yt3.ggpht.com/ytc/AAUvwngRqqSlTmp4mkOAQtVVgadziefg5D1El2RGbQKecA=s176-c-k-c0x00ffffff-no-rj-mo",
-      thumbnail: "https://img.youtube.com/vi/PJWemSzExXs/maxresdefault.jpg"
+        "https://yt3.ggpht.com/ytc/AKedOLSFIcHwo5qli_rSH6R_mq5qEyK08JPLMsMisxHx=s176-c-k-c0x00ffffff-no-rj",
+      thumbnail: "https://img.youtube.com/vi/f7s0XpKb0VM/maxresdefault.jpg"
     },
     {
-      url: "https://www.youtube.com/embed/CvV5P-mgaR8",
-      name: "Anuv Jain - MAULA (Studio)",
-      artist: "Anuv Jain",
-      genre: "sobs",
-      views: "10M views • 1 years ago",
+      url: "https://www.youtube.com/embed/oLXGM0kiNNc",
+      name: "DRY when writing a GraphQL React App by Tanay Pratap",
+      artist: "GraphQL Asia",
+      genre: "graphQl-talks",
+      views: "745 views • Nov 10, 2019",
       image:
-        "https://yt3.ggpht.com/ytc/AAUvwngRqqSlTmp4mkOAQtVVgadziefg5D1El2RGbQKecA=s176-c-k-c0x00ffffff-no-rj-mo",
-      thumbnail: "https://img.youtube.com/vi/CvV5P-mgaR8/maxresdefault.jpg"
+        "https://yt3.ggpht.com/ytc/AKedOLSFIcHwo5qli_rSH6R_mq5qEyK08JPLMsMisxHx=s176-c-k-c0x00ffffff-no-rj",
+      thumbnail: "https://img.youtube.com/vi/oLXGM0kiNNc/maxresdefault.jpg"
     },
     {
-      url: "https://www.youtube.com/embed/eVTXPUF4Oz4",
-      name: "In The End [Official Music Video] - Linkin Park",
-      artist: "Linkin Park",
-      genre: "rock",
-      views: "105M views • 11 years ago",
+      url: "https://www.youtube.com/embed/dN15USae2ik",
+      name: "ReactJS for Absolute Beginners",
+      artist: "Tanay Pratap",
+      genre: "react-course",
+      views: "22,471 views •  Jun 16, 2019",
       image:
-        "https://yt3.ggpht.com/ytc/AAUvwniqwRWwcdZSWbkLuMp7QNuf091ENB1fnXwpPd3buak=s176-c-k-c0x00ffffff-no-rj",
-      thumbnail: "https://img.youtube.com/vi/eVTXPUF4Oz4/maxresdefault.jpg"
+        "https://yt3.ggpht.com/ytc/AKedOLQnvobEXpzHCxB1g-q2aXbRDzSaznFVHo5OdFML=s88-c-k-c0x00ffffff-no-rj",
+      thumbnail: "https://img.youtube.com/vi/dN15USae2ik/maxresdefault.jpg"
     },
     {
-      url: "https://www.youtube.com/embed/Tm8LGxTLtQk",
-      name: "One More Light [Official Music Video] - Linkin Park",
-      artist: "Linkin Park",
-      genre: "rock",
-      views: "15M views • 4 years ago",
+      url: "https://www.youtube.com/embed/9pRhkECs1rM",
+      name: "Revision Session for ReactJS Beginners",
+      artist: "Tanay Pratap",
+      genre: "react-course",
+      views: "3,833 views •Sep 18, 2019",
       image:
-        "https://yt3.ggpht.com/ytc/AAUvwniqwRWwcdZSWbkLuMp7QNuf091ENB1fnXwpPd3buak=s176-c-k-c0x00ffffff-no-rj",
-      thumbnail: "https://img.youtube.com/vi/Tm8LGxTLtQk/maxresdefault.jpg"
+        "https://yt3.ggpht.com/ytc/AKedOLQnvobEXpzHCxB1g-q2aXbRDzSaznFVHo5OdFML=s88-c-k-c0x00ffffff-no-rj",
+      thumbnail: "https://img.youtube.com/vi/9pRhkECs1rM/maxresdefault.jpg"
     },
     {
-      url: "https://www.youtube.com/embed/ScNNfyq3d_w",
-      name: "CASTLE OF GLASS [Official Music Video] - Linkin Park",
-      artist: "Linkin Park",
-      genre: "rock",
-      views: "55M views • 8 years ago",
+      url: "https://www.youtube.com/embed/BqPoQCCJ_Ds",
+      name: "Props and Components for ReactJS Beginners",
+      artist: "Tanay Pratap",
+      genre: "react-course",
+      views: "3,982 • Sep 22, 2019",
       image:
-        "https://yt3.ggpht.com/ytc/AAUvwniqwRWwcdZSWbkLuMp7QNuf091ENB1fnXwpPd3buak=s176-c-k-c0x00ffffff-no-rj",
-      thumbnail: "https://img.youtube.com/vi/ScNNfyq3d_w/maxresdefault.jpg"
+        "https://yt3.ggpht.com/ytc/AKedOLQnvobEXpzHCxB1g-q2aXbRDzSaznFVHo5OdFML=s88-c-k-c0x00ffffff-no-rj",
+      thumbnail: "https://img.youtube.com/vi/BqPoQCCJ_Ds/maxresdefault.jpg"
     },
     {
-      url: "https://www.youtube.com/embed/dxytyRy-O1k",
-      name: "BURN IT DOWN [Official Music Video] - Linkin Park",
-      artist: "Linkin Park",
-      genre: "rock",
-      views: "69M views • 9 years ago",
+      url: "https://www.youtube.com/embed/Icr3pGbz3iE",
+      name: "Getting started with React Hooks",
+      artist: "Tanay Pratap",
+      genre: "react-course",
+      views: "10,229 views • Jul 19, 2020",
       image:
-        "https://yt3.ggpht.com/ytc/AAUvwniqwRWwcdZSWbkLuMp7QNuf091ENB1fnXwpPd3buak=s176-c-k-c0x00ffffff-no-rj",
-      thumbnail: "https://img.youtube.com/vi/dxytyRy-O1k/maxresdefault.jpg"
+        "https://yt3.ggpht.com/ytc/AKedOLQnvobEXpzHCxB1g-q2aXbRDzSaznFVHo5OdFML=s88-c-k-c0x00ffffff-no-rj",
+      thumbnail: "https://img.youtube.com/vi/Icr3pGbz3iE/maxresdefault.jpg"
     },
     {
-      url: "https://www.youtube.com/embed/C5i-UnuUKUI",
-      name: "Juice WRLD - Wishing Well (Official Music Video)",
-      artist: "Juice WRLD",
-      genre: "hiphop",
-      views: "61M views • 3 years ago",
+      url: "https://www.youtube.com/embed/Z5iWr6Srsj8",
+      name: "React Typescript Tutorial",
+      artist: "Ben Awad",
+      genre: "typescript",
+      views: "329,803 views • Sep 5, 2019",
       image:
-        "https://yt3.ggpht.com/ytc/AAUvwnilbCkDgiLwPud8ukUw2rf0UcRi4bOBSG0PwPshPA=s88-c-k-c0x00ffffff-no-rj-mo",
-      thumbnail: "https://img.youtube.com/vi/C5i-UnuUKUI/maxresdefault.jpg"
+        "https://yt3.ggpht.com/ytc/AKedOLScd3qE7Blu2CtRbzkfBzbEwE3_bIpO-dRaQjTPTg=s88-c-k-c0x00ffffff-no-rj",
+      thumbnail: "https://img.youtube.com/vi/Z5iWr6Srsj8/maxresdefault.jpg"
     },
     {
-      url: "https://www.youtube.com/embed/mzB1VGEGcSU",
-      name: "Juice WRLD - Lucid Dreams (Directed by Cole Bennett)",
-      artist: "Juice WRLD",
-      genre: "hiphop",
-      views: "690M views • 4 years ago",
+      url: "https://www.youtube.com/embed/OkIDr8QSrLg",
+      name: " Using Typescript in React",
+      artist: "Ben Awad",
+      genre: "typescript",
+      views: "53,699 views• Apr 19, 2018",
       image:
-        "https://yt3.ggpht.com/ytc/AAUvwnilbCkDgiLwPud8ukUw2rf0UcRi4bOBSG0PwPshPA=s88-c-k-c0x00ffffff-no-rj-mo",
-      thumbnail: "https://img.youtube.com/vi/mzB1VGEGcSU/maxresdefault.jpg"
+        "https://yt3.ggpht.com/ytc/AKedOLScd3qE7Blu2CtRbzkfBzbEwE3_bIpO-dRaQjTPTg=s88-c-k-c0x00ffffff-no-rj",
+      thumbnail: "https://img.youtube.com/vi/OkIDr8QSrLg/maxresdefault.jpg"
     },
     {
-      url: "https://www.youtube.com/embed/ZengOKCUBHo",
-      name: "Juice WRLD - Righteous (Official Video)",
-      artist: "Juice WRLD",
-      genre: "hiphop",
-      views: "130M views • 4 years ago",
+      url: "https://www.youtube.com/embed/se72XMlG1Ro",
+      name: " Typescript Basics",
+      artist: "Ben Awad",
+      genre: "typescript",
+      views: "20,060 views • Apr 17, 2018",
       image:
-        "https://yt3.ggpht.com/ytc/AAUvwnilbCkDgiLwPud8ukUw2rf0UcRi4bOBSG0PwPshPA=s88-c-k-c0x00ffffff-no-rj-mo",
-      thumbnail: "https://img.youtube.com/vi/ZengOKCUBHo/maxresdefault.jpg"
+        "https://yt3.ggpht.com/ytc/AKedOLScd3qE7Blu2CtRbzkfBzbEwE3_bIpO-dRaQjTPTg=s88-c-k-c0x00ffffff-no-rj",
+      thumbnail: "https://img.youtube.com/vi/se72XMlG1Ro/maxresdefault.jpg"
     },
     {
-      url: "https://www.youtube.com/embed/2avPJ9TZNmU",
-      name: "Juice WRLD & The Weeknd - Smile (Official Video)",
-      artist: "Juice WRLD",
-      genre: "hiphop",
-      views: "56M views • 4 years ago",
+      url: "https://www.youtube.com/embed/nViEqpgwxHE",
+      name: "Typescript Generics Tutorial",
+      artist: "Ben Awad",
+      genre: "typescript",
+      views: "104,311 views •Aug 26, 2019",
       image:
-        "https://yt3.ggpht.com/ytc/AAUvwnilbCkDgiLwPud8ukUw2rf0UcRi4bOBSG0PwPshPA=s88-c-k-c0x00ffffff-no-rj-mo",
-      thumbnail: "https://img.youtube.com/vi/2avPJ9TZNmU/maxresdefault.jpg"
+        "https://yt3.ggpht.com/ytc/AKedOLScd3qE7Blu2CtRbzkfBzbEwE3_bIpO-dRaQjTPTg=s88-c-k-c0x00ffffff-no-rj",
+      thumbnail: "https://img.youtube.com/vi/nViEqpgwxHE/maxresdefault.jpg"
     },
     {
-      url: "https://www.youtube.com/embed/JFm7YDVlqnI",
-      name: "Drake - Laugh Now Cry Later ",
-      artist: "Drake",
-      genre: "hiphop/rap",
-      views: "456M views • 4 years ago",
+      url: "https://www.youtube.com/embed/5ZZG4SOzPkw",
+      name: "14 Books for Growth and Startups ft. Priyadeep Sinha ",
+      artist: "Tanay Pratap",
+      genre: "teaWithTanay",
+      views: "1,688 views •S ep 7, 2019",
       image:
-        "https://yt3.ggpht.com/ytc/AAUvwnh1mAxc7nv3JTMtQwHoRdhhuIBfALqOYI4Rzy-B6Q=s88-c-k-c0x00ffffff-no-rj-mo",
-      thumbnail: "https://img.youtube.com/vi/JFm7YDVlqnI/maxresdefault.jpg"
+        "https://yt3.ggpht.com/ytc/AKedOLQnvobEXpzHCxB1g-q2aXbRDzSaznFVHo5OdFML=s88-c-k-c0x00ffffff-no-rj",
+      thumbnail: "https://img.youtube.com/vi/5ZZG4SOzPkw/maxresdefault.jpg"
     },
     {
-      url: "https://www.youtube.com/embed/xpVfcZ0ZcFM",
-      name: "Drake - God's Plan",
-      artist: "Drake",
-      genre: "hiphop/rap",
-      views: "416M views • 4 years ago",
+      url: "https://www.youtube.com/embed/PU4zArf71Yg",
+      name: "Programming Projects ft. Rachit Gulati",
+      artist: "Tanay Pratap",
+      genre: "teaWithTanay",
+      views: "3,190 views • Sep 14, 2019",
       image:
-        "https://yt3.ggpht.com/ytc/AAUvwnh1mAxc7nv3JTMtQwHoRdhhuIBfALqOYI4Rzy-B6Q=s88-c-k-c0x00ffffff-no-rj-mo",
-      thumbnail: "https://img.youtube.com/vi/xpVfcZ0ZcFM/maxresdefault.jpg"
+        "https://yt3.ggpht.com/ytc/AKedOLQnvobEXpzHCxB1g-q2aXbRDzSaznFVHo5OdFML=s88-c-k-c0x00ffffff-no-rj",
+      thumbnail: "https://img.youtube.com/vi/PU4zArf71Yg/maxresdefault.jpg"
     },
     {
-      url: "https://www.youtube.com/embed/R0ykLlhg0AQ",
-      name: "Drake - Money In The Grave ft. Rick Ross",
-      artist: "Drake",
-      genre: "hiphop/rap",
-      views: "416M views • 4 years ago",
+      url: "https://www.youtube.com/embed/cXFMlxKx9A8",
+      name: "Building Communities ft. Anubha from GirlScript",
+      artist: "Tanay Pratap",
+      genre: "teaWithTanay",
+      views: "1,064 views• Sep 21, 2019",
       image:
-        "https://yt3.ggpht.com/ytc/AAUvwnh1mAxc7nv3JTMtQwHoRdhhuIBfALqOYI4Rzy-B6Q=s88-c-k-c0x00ffffff-no-rj-mo",
-      thumbnail: "https://img.youtube.com/vi/R0ykLlhg0AQ/maxresdefault.jpg"
+        "https://yt3.ggpht.com/ytc/AKedOLQnvobEXpzHCxB1g-q2aXbRDzSaznFVHo5OdFML=s88-c-k-c0x00ffffff-no-rj",
+      thumbnail: "https://img.youtube.com/vi/cXFMlxKx9A8/maxresdefault.jpg"
     },
     {
-      url: "https://www.youtube.com/embed/uxpDa-c-4Mc",
-      name: "Drake - Hotline Bling",
-      artist: "Drake",
-      genre: "hiphop/rap",
-      views: "416M views • 4 years ago",
+      url: "https://www.youtube.com/embed/QhnU7kO8u_I",
+      name: "Getting Started with Open Source ft. Rahul Kadyan",
+      artist: "Tanay Pratap",
+      genre: "teaWithTanay",
+      views: "2,052 views • Sep 29, 2019",
       image:
-        "https://yt3.ggpht.com/ytc/AAUvwnh1mAxc7nv3JTMtQwHoRdhhuIBfALqOYI4Rzy-B6Q=s88-c-k-c0x00ffffff-no-rj-mo",
-      thumbnail: "https://img.youtube.com/vi/uxpDa-c-4Mc/maxresdefault.jpg"
+        "https://yt3.ggpht.com/ytc/AKedOLQnvobEXpzHCxB1g-q2aXbRDzSaznFVHo5OdFML=s88-c-k-c0x00ffffff-no-rj",
+      thumbnail: "https://img.youtube.com/vi/QhnU7kO8u_I/maxresdefault.jpg"
     }
   ];
   
