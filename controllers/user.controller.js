@@ -37,7 +37,7 @@ exports.add_user = async(req,res)=>{
             const checkPassword = await bcrypt.compare(req.body.password,user[0].password)
             if(checkPassword){
                 const token = await jwt.sign({userId : user[0]._id,name:user[0].name},mySecret,{expiresIn:"24h"});
-                res.json({token})
+                res.json({token,userId :user[0]._id})
             }else{
               return  res.status(401).json({message:"wrong password"})
             }
