@@ -16,6 +16,9 @@ router.route("/login")
 
 router.use(userLogger)
 
+router.route("/token")
+.get(UserController.send_user_id)
+
 router.route("/:userId/history/video")
 .get(HistoryVideosController.get_user_history_videos)
 .post(HistoryVideosController.add_video_to_user_history)

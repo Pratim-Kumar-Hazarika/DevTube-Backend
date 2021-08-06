@@ -47,3 +47,13 @@ exports.add_user = async(req,res)=>{
       }
   }
   
+  exports.send_user_id = async(req,res)=>{
+    try {
+      const {decodedValues} = req.user;
+      console.log("called")
+      console.log(decodedValues)
+      res.json({userId:decodedValues.userId,message:"userId sent"})
+    } catch (error) {
+      res.status(500).json({message:"User _id not send"})
+    }
+  }
