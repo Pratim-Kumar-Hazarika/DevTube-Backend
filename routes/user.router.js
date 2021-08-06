@@ -16,33 +16,30 @@ router.route("/login")
 
 router.use(userLogger)
 
-router.route("/token")
-.get(UserController.send_user_id)
-
-router.route("/:userId/history/video")
+router.route("/history/video")
 .get(HistoryVideosController.get_user_history_videos)
 .post(HistoryVideosController.add_video_to_user_history)
 
-router.route("/:userId/history/video/delete")
+router.route("/history/video/delete")
 .post(HistoryVideosController.delete_videos_from_user_history)
 
-router.route("/:userId/liked/video")
+router.route("/liked/video")
 .get(LikedVideosController.get_user_liked_videos)
 .post(LikedVideosController.add_video_to_user_liked)
 
-router.route("/:userId/liked/video/delete")
+router.route("/liked/video/delete")
 .post(LikedVideosController.delete_videos_from_user_liked)
 
-router.route("/:userId/playlists")
+router.route("/playlists")
 .get(PlaylistController.get_user_playlists)
 .post(PlaylistController.add_playlist_to_user)
-router.route("/:userId/playlists/delete")
+router.route("/playlists/delete")
 .post(PlaylistController.delete_playlist_of_user)
 
-router.route("/:userId/playlists/video")
+router.route("/playlists/video")
 .post(PlaylistVideoController.add_video_to_user_playlist)
 
-router.route("/:userId/playlists/video/delete")
+router.route("/playlists/video/delete")
 .post(PlaylistVideoController.delete_video_from_user_playlist)
 
 module.exports = router;

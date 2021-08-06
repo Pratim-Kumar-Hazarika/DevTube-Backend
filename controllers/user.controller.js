@@ -31,13 +31,12 @@ exports.add_user = async(req,res)=>{
 
   exports.user_login = async(req,res)=>{
       try {
-          console.log(req.body.email)
         const user = await User.find({email:req.body.email})
         if(user){
             const checkPassword = await bcrypt.compare(req.body.password,user[0].password)
             if(checkPassword){
                 const token = await jwt.sign({userId : user[0]._id,name:user[0].name},mySecret,{expiresIn:"24h"});
-                res.json({token,userId :user[0]._id})
+                res.json({token})
             }else{
               return  res.status(401).json({message:"wrong password"})
             }
@@ -47,13 +46,3 @@ exports.add_user = async(req,res)=>{
       }
   }
   
-  exports.send_user_id = async(req,res)=>{
-    try {
-      const {decodedValues} = req.user;
-      console.log("called")
-      console.log(decodedValues)
-      res.json({userId:decodedValues.userId,message:"userId sent"})
-    } catch (error) {
-      res.status(500).json({message:"User _id not send"})
-    }
-  }
