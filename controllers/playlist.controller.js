@@ -2,8 +2,8 @@ const { PlayList } = require("../models/playlist.model");
 
 exports.get_user_playlists = async(req,res)=>{
     try {
-        const {userId} = req.params;
-        const getUserPlaylists = await PlayList.findById(userId).select("playlists").populate("playlists.video")
+        const {decodedValues} = req.user
+        const getUserPlaylists = await PlayList.findById(decodedValues.userId).select("playlists").populate("playlists.video")
         res.json({message:"user videos are",getUserPlaylists})
     } catch (error) {
         res.status(500).json({errorMessage:"error while getting user playlists"})
@@ -12,12 +12,12 @@ exports.get_user_playlists = async(req,res)=>{
 
   exports.add_playlist_to_user = async(req,res)=>{
       try {
-          const {userId} = req.params;
+        const {decodedValues} = req.user
           const {name} = req.body;
-          const user= await PlayList.findById(userId);
+          const user= await PlayList.findById(decodedValues.userId);
           if(user === null){
             const NewPlaylist = new PlayList({
-                _id :userId,
+                _id :decodedValues.userId,
                 playlists:[
                     {
                         name : name,
@@ -33,7 +33,7 @@ exports.get_user_playlists = async(req,res)=>{
           if(getPlaylist){
               return res.status(500).json({errorMessage:"Playlist with the same name cannot be created use a different name"})
           }else{
-            await PlayList.updateOne({"_id":userId},{
+            await PlayList.updateOne({"_id":decodedValues.userId},{
                 "$addToSet":{
                   "playlists":{
                       "name":name,
@@ -50,9 +50,9 @@ exports.get_user_playlists = async(req,res)=>{
 
   exports.delete_playlist_of_user = async(req,res)=>{
       try {
-          const {userId} = req.params;
+        const {decodedValues} = req.user
           const {name} = req.body
-          await PlayList.updateOne({"_id":userId},
+          await PlayList.updateOne({"_id":decodedValues.userId},
           {"$pull":
              {"playlists":
                 {"name":name}

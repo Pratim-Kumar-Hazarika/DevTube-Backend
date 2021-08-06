@@ -2,11 +2,11 @@ const {PlayList} = require("../models/playlist.model");
 
 exports.add_video_to_user_playlist = async(req, res) => {
     try {
-        const {userId} = req.params;
+        const {decodedValues} = req.user;
         const {name} = req.body;
         const {videoId} = req.body;
         await PlayList.updateOne({
-            "_id": userId,
+            "_id": decodedValues.userId,
             "playlists.name": name
         }, {
             "$addToSet": {
@@ -21,11 +21,11 @@ exports.add_video_to_user_playlist = async(req, res) => {
 
 exports.delete_video_from_user_playlist = async(req, res) => {
     try {
-        const {userId} = req.params;
+        const {decodedValues} = req.user;
         const {name} = req.body;
         const {videoId} = req.body;
         await PlayList.updateOne({
-            "_id": userId,
+            "_id": decodedValues.userId,
             "playlists.name": name
         }, {
             "$pull": {
