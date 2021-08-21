@@ -7,7 +7,7 @@ const videodata = [
       views: "26,998 views • Feb 3, 2019",
       image:
         "https://yt3.ggpht.com/ytc/AKedOLQnvobEXpzHCxB1g-q2aXbRDzSaznFVHo5OdFML=s176-c-k-c0x00ffffff-no-rj-mo",
-      thumbnail: "https://img.youtube.com/vi/E8cl_8ktp9M/maxresdefault.jpg"
+      thumbnail: "https://i.ytimg.com/vi/E8cl_8ktp9M/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBrXTq56Ki9NN5HZAYt9zdQqK9Vxg"
     },
     {
       url: "https://www.youtube.com/embed/3n1VkrzhxUE",
@@ -17,7 +17,7 @@ const videodata = [
       views: "8,937 views • Feb 4, 2019",
       image:
         "https://yt3.ggpht.com/ytc/AKedOLQnvobEXpzHCxB1g-q2aXbRDzSaznFVHo5OdFML=s176-c-k-c0x00ffffff-no-rj-mo",
-      thumbnail: "https://img.youtube.com/vi/3n1VkrzhxUE/maxresdefault.jpg"
+      thumbnail: "https://i.ytimg.com/vi/3n1VkrzhxUE/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBrXTq56Ki9NN5HZAYt9zdQqK9Vxg"
     },
     {
       url: "https://www.youtube.com/embed/UpEupeE7vUE",
@@ -27,7 +27,7 @@ const videodata = [
       views: "8,774 views • Feb 4, 2019",
       image:
         "https://yt3.ggpht.com/ytc/AKedOLQnvobEXpzHCxB1g-q2aXbRDzSaznFVHo5OdFML=s176-c-k-c0x00ffffff-no-rj-mo",
-      thumbnail: "https://img.youtube.com/vi/UpEupeE7vUE/maxresdefault.jpg"
+      thumbnail: "https://i.ytimg.com/vi/UpEupeE7vUE/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBrXTq56Ki9NN5HZAYt9zdQqK9Vxg"
     },
     {
       url: "https://www.youtube.com/embed/Nyj1nzXLFjM",
@@ -37,7 +37,7 @@ const videodata = [
       views: "9,400 views • Feb 11, 2019",
       image:
         "https://yt3.ggpht.com/ytc/AKedOLQnvobEXpzHCxB1g-q2aXbRDzSaznFVHo5OdFML=s176-c-k-c0x00ffffff-no-rj-mo",
-      thumbnail: "https://img.youtube.com/vi/Nyj1nzXLFjM/maxresdefault.jpg"
+      thumbnail: "https://i.ytimg.com/vi/Nyj1nzXLFjM/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBrXTq56Ki9NN5HZAYt9zdQqK9Vxg"
     },
     {
       url: "https://www.youtube.com/embed/oUO3-XQAEsY",
@@ -47,7 +47,7 @@ const videodata = [
       views: "6,592 views • Feb 12, 2019",
       image:
         "https://yt3.ggpht.com/ytc/AKedOLQnvobEXpzHCxB1g-q2aXbRDzSaznFVHo5OdFML=s176-c-k-c0x00ffffff-no-rj-mo",
-      thumbnail: "https://img.youtube.com/vi/oUO3-XQAEsY/maxresdefault.jpg"
+      thumbnail: "https://i.ytimg.com/vi/oUO3-XQAEsY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBrXTq56Ki9NN5HZAYt9zdQqK9Vxg"
     },
     {
       url: "https://www.youtube.com/embed/8aGhZQkoFbQ",
@@ -57,7 +57,7 @@ const videodata = [
       views: "1,972,359 views • Oct 9, 2014",
       image:
         "https://yt3.ggpht.com/ytc/AKedOLSUOEQunmzvzQOeAWEorFZiXGHQ6LEMMR02wzNQ9w=s88-c-k-c0x00ffffff-no-rj",
-      thumbnail: "https://img.youtube.com/vi/8aGhZQkoFbQ/maxresdefault.jpg"
+      thumbnail: "https://i.ytimg.com/vi/8aGhZQkoFbQ/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBrXTq56Ki9NN5HZAYt9zdQqK9Vxg"
     },
     {
       url: "https://www.youtube.com/embed/Wo0qiGPSV-s",
@@ -67,7 +67,7 @@ const videodata = [
       views: "259,360 views • May 14, 2017",
       image:
         "https://yt3.ggpht.com/ytc/AKedOLSUOEQunmzvzQOeAWEorFZiXGHQ6LEMMR02wzNQ9w=s88-c-k-c0x00ffffff-no-rj",
-      thumbnail: "https://img.youtube.com/vi/Wo0qiGPSV-s/maxresdefault.jpg"
+      thumbnail: "https://i.ytimg.com/vi/Wo0qiGPSV-s/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBrXTq56Ki9NN5HZAYt9zdQqK9Vxg"
     },
     {
       url: "https://www.youtube.com/embed/e-5obm1G_FY",
@@ -77,7 +77,7 @@ const videodata = [
       views: "2,329,416 views • Jun 14, 2016",
       image:
         "https://yt3.ggpht.com/ytc/AKedOLSUOEQunmzvzQOeAWEorFZiXGHQ6LEMMR02wzNQ9w=s88-c-k-c0x00ffffff-no-rj",
-      thumbnail: "https://img.youtube.com/vi/e-5obm1G_FY/maxresdefault.jpg"
+      thumbnail: "https://i.ytimg.com/vi/e-5obm1G_FY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBrXTq56Ki9NN5HZAYt9zdQqK9Vxg"
     },
     {
       url: "https://www.youtube.com/embed/fE-yQeVRrzw",
@@ -87,7 +87,7 @@ const videodata = [
       views: "495 views • May 14, 2019",
       image:
         "https://yt3.ggpht.com/ytc/AKedOLSFIcHwo5qli_rSH6R_mq5qEyK08JPLMsMisxHx=s176-c-k-c0x00ffffff-no-rj",
-      thumbnail: "https://img.youtube.com/vi/fE-yQeVRrzw/maxresdefault.jpg"
+      thumbnail: "https://i.ytimg.com/vi/fE-yQeVRrzw/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBrXTq56Ki9NN5HZAYt9zdQqK9Vxg"
     },
     {
       url: "https://www.youtube.com/embed/XUgGl8mGu1M",
@@ -97,7 +97,7 @@ const videodata = [
       views: "4,232 views • May 14, 2019",
       image:
         "https://yt3.ggpht.com/ytc/AKedOLSFIcHwo5qli_rSH6R_mq5qEyK08JPLMsMisxHx=s176-c-k-c0x00ffffff-no-rj",
-      thumbnail: "https://img.youtube.com/vi/XUgGl8mGu1M/maxresdefault.jpg"
+      thumbnail: "https://i.ytimg.com/vi/XUgGl8mGu1M/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBrXTq56Ki9NN5HZAYt9zdQqK9Vxg"
     },
     {
       url: "https://www.youtube.com/embed/f7s0XpKb0VM",
@@ -107,7 +107,7 @@ const videodata = [
       views: "813 views  • May 14, 2019",
       image:
         "https://yt3.ggpht.com/ytc/AKedOLSFIcHwo5qli_rSH6R_mq5qEyK08JPLMsMisxHx=s176-c-k-c0x00ffffff-no-rj",
-      thumbnail: "https://img.youtube.com/vi/f7s0XpKb0VM/maxresdefault.jpg"
+      thumbnail: "https://i.ytimg.com/vi/f7s0XpKb0VM/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBrXTq56Ki9NN5HZAYt9zdQqK9Vxg"
     },
     {
       url: "https://www.youtube.com/embed/oLXGM0kiNNc",
@@ -117,7 +117,7 @@ const videodata = [
       views: "745 views • Nov 10, 2019",
       image:
         "https://yt3.ggpht.com/ytc/AKedOLSFIcHwo5qli_rSH6R_mq5qEyK08JPLMsMisxHx=s176-c-k-c0x00ffffff-no-rj",
-      thumbnail: "https://img.youtube.com/vi/oLXGM0kiNNc/maxresdefault.jpg"
+      thumbnail: "https://i.ytimg.com/vi/oLXGM0kiNNc/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBrXTq56Ki9NN5HZAYt9zdQqK9Vxg"
     },
     {
       url: "https://www.youtube.com/embed/dN15USae2ik",
@@ -127,7 +127,7 @@ const videodata = [
       views: "22,471 views •  Jun 16, 2019",
       image:
         "https://yt3.ggpht.com/ytc/AKedOLQnvobEXpzHCxB1g-q2aXbRDzSaznFVHo5OdFML=s88-c-k-c0x00ffffff-no-rj",
-      thumbnail: "https://img.youtube.com/vi/dN15USae2ik/maxresdefault.jpg"
+      thumbnail: "https://i.ytimg.com/vi/dN15USae2ik/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBrXTq56Ki9NN5HZAYt9zdQqK9Vxg"
     },
     {
       url: "https://www.youtube.com/embed/9pRhkECs1rM",
@@ -137,7 +137,7 @@ const videodata = [
       views: "3,833 views •Sep 18, 2019",
       image:
         "https://yt3.ggpht.com/ytc/AKedOLQnvobEXpzHCxB1g-q2aXbRDzSaznFVHo5OdFML=s88-c-k-c0x00ffffff-no-rj",
-      thumbnail: "https://img.youtube.com/vi/9pRhkECs1rM/maxresdefault.jpg"
+      thumbnail: "https://i.ytimg.com/vi/9pRhkECs1rM/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBrXTq56Ki9NN5HZAYt9zdQqK9Vxg"
     },
     {
       url: "https://www.youtube.com/embed/BqPoQCCJ_Ds",
@@ -147,7 +147,7 @@ const videodata = [
       views: "3,982 • Sep 22, 2019",
       image:
         "https://yt3.ggpht.com/ytc/AKedOLQnvobEXpzHCxB1g-q2aXbRDzSaznFVHo5OdFML=s88-c-k-c0x00ffffff-no-rj",
-      thumbnail: "https://img.youtube.com/vi/BqPoQCCJ_Ds/maxresdefault.jpg"
+      thumbnail: "https://i.ytimg.com/vi/BqPoQCCJ_Ds/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBrXTq56Ki9NN5HZAYt9zdQqK9Vxg"
     },
     {
       url: "https://www.youtube.com/embed/Icr3pGbz3iE",
@@ -157,7 +157,7 @@ const videodata = [
       views: "10,229 views • Jul 19, 2020",
       image:
         "https://yt3.ggpht.com/ytc/AKedOLQnvobEXpzHCxB1g-q2aXbRDzSaznFVHo5OdFML=s88-c-k-c0x00ffffff-no-rj",
-      thumbnail: "https://img.youtube.com/vi/Icr3pGbz3iE/maxresdefault.jpg"
+      thumbnail: "https://i.ytimg.com/vi/Icr3pGbz3iE/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBrXTq56Ki9NN5HZAYt9zdQqK9Vxg"
     },
     {
       url: "https://www.youtube.com/embed/Z5iWr6Srsj8",
@@ -167,7 +167,7 @@ const videodata = [
       views: "329,803 views • Sep 5, 2019",
       image:
         "https://yt3.ggpht.com/ytc/AKedOLScd3qE7Blu2CtRbzkfBzbEwE3_bIpO-dRaQjTPTg=s88-c-k-c0x00ffffff-no-rj",
-      thumbnail: "https://img.youtube.com/vi/Z5iWr6Srsj8/maxresdefault.jpg"
+      thumbnail: "https://i.ytimg.com/vi/Z5iWr6Srsj8/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBrXTq56Ki9NN5HZAYt9zdQqK9Vxg"
     },
     {
       url: "https://www.youtube.com/embed/OkIDr8QSrLg",
@@ -177,7 +177,7 @@ const videodata = [
       views: "53,699 views• Apr 19, 2018",
       image:
         "https://yt3.ggpht.com/ytc/AKedOLScd3qE7Blu2CtRbzkfBzbEwE3_bIpO-dRaQjTPTg=s88-c-k-c0x00ffffff-no-rj",
-      thumbnail: "https://img.youtube.com/vi/OkIDr8QSrLg/maxresdefault.jpg"
+      thumbnail: "https://i.ytimg.com/vi/OkIDr8QSrLg/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBrXTq56Ki9NN5HZAYt9zdQqK9Vxg"
     },
     {
       url: "https://www.youtube.com/embed/se72XMlG1Ro",
@@ -187,7 +187,7 @@ const videodata = [
       views: "20,060 views • Apr 17, 2018",
       image:
         "https://yt3.ggpht.com/ytc/AKedOLScd3qE7Blu2CtRbzkfBzbEwE3_bIpO-dRaQjTPTg=s88-c-k-c0x00ffffff-no-rj",
-      thumbnail: "https://img.youtube.com/vi/se72XMlG1Ro/maxresdefault.jpg"
+      thumbnail: "https://i.ytimg.com/vi/se72XMlG1Ro/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBrXTq56Ki9NN5HZAYt9zdQqK9Vxg"
     },
     {
       url: "https://www.youtube.com/embed/nViEqpgwxHE",
@@ -197,7 +197,7 @@ const videodata = [
       views: "104,311 views •Aug 26, 2019",
       image:
         "https://yt3.ggpht.com/ytc/AKedOLScd3qE7Blu2CtRbzkfBzbEwE3_bIpO-dRaQjTPTg=s88-c-k-c0x00ffffff-no-rj",
-      thumbnail: "https://img.youtube.com/vi/nViEqpgwxHE/maxresdefault.jpg"
+      thumbnail: "https://i.ytimg.com/vi/nViEqpgwxHE/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBrXTq56Ki9NN5HZAYt9zdQqK9Vxg"
     },
     {
       url: "https://www.youtube.com/embed/5ZZG4SOzPkw",
@@ -207,7 +207,7 @@ const videodata = [
       views: "1,688 views •S ep 7, 2019",
       image:
         "https://yt3.ggpht.com/ytc/AKedOLQnvobEXpzHCxB1g-q2aXbRDzSaznFVHo5OdFML=s88-c-k-c0x00ffffff-no-rj",
-      thumbnail: "https://img.youtube.com/vi/5ZZG4SOzPkw/maxresdefault.jpg"
+      thumbnail: "https://i.ytimg.com/vi/5ZZG4SOzPkw/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBrXTq56Ki9NN5HZAYt9zdQqK9Vxg"
     },
     {
       url: "https://www.youtube.com/embed/PU4zArf71Yg",
@@ -217,7 +217,7 @@ const videodata = [
       views: "3,190 views • Sep 14, 2019",
       image:
         "https://yt3.ggpht.com/ytc/AKedOLQnvobEXpzHCxB1g-q2aXbRDzSaznFVHo5OdFML=s88-c-k-c0x00ffffff-no-rj",
-      thumbnail: "https://img.youtube.com/vi/PU4zArf71Yg/maxresdefault.jpg"
+      thumbnail: "https://i.ytimg.com/vi/PU4zArf71Yg/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBrXTq56Ki9NN5HZAYt9zdQqK9Vxg"
     },
     {
       url: "https://www.youtube.com/embed/cXFMlxKx9A8",
@@ -227,7 +227,7 @@ const videodata = [
       views: "1,064 views• Sep 21, 2019",
       image:
         "https://yt3.ggpht.com/ytc/AKedOLQnvobEXpzHCxB1g-q2aXbRDzSaznFVHo5OdFML=s88-c-k-c0x00ffffff-no-rj",
-      thumbnail: "https://img.youtube.com/vi/cXFMlxKx9A8/maxresdefault.jpg"
+      thumbnail: "https://i.ytimg.com/vi/cXFMlxKx9A8/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBrXTq56Ki9NN5HZAYt9zdQqK9Vxg"
     },
     {
       url: "https://www.youtube.com/embed/QhnU7kO8u_I",
@@ -237,7 +237,7 @@ const videodata = [
       views: "2,052 views • Sep 29, 2019",
       image:
         "https://yt3.ggpht.com/ytc/AKedOLQnvobEXpzHCxB1g-q2aXbRDzSaznFVHo5OdFML=s88-c-k-c0x00ffffff-no-rj",
-      thumbnail: "https://img.youtube.com/vi/QhnU7kO8u_I/maxresdefault.jpg"
+      thumbnail: "https://i.ytimg.com/vi/QhnU7kO8u_I/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBrXTq56Ki9NN5HZAYt9zdQqK9Vxg"
     }
   ];
   
